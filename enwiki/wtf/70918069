@@ -1,0 +1,92 @@
+{
+  "title": "Alfredo Pacheco (politician)",
+  "pageID": 70918069,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Modern Revolutionary Party politicians",
+    "Presidents of the Chamber of Deputies of the Dominican Republic",
+    "20th-century Dominican Republic lawyers",
+    "21st-century Dominican Republic politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alfredo Pacheco Osoria (born 12 January 1959) is a Dominican Republic politician from the Modern Revolutionary Party who has been President of the Chamber of Deputies since 16 August 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominican Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Modern Revolutionary Party"
+                },
+                {
+                  "text": "President of the Chamber of Deputies",
+                  "type": "internal",
+                  "page": "List of Presidents of the Chamber of Deputies of the Dominican Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alfredo Pacheco Osoria"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Alfredo_Pacheco_(2021)_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Alfredo_Pacheco_(2021)_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Alfredo_Pacheco_(2021)_(cropped).jpg",
+          "caption": "Alfredo Pacheco in 2021.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2022",
+          "template": "blp sources"
+        },
+        {
+          "date": "May 2022",
+          "template": "expand spanish"
+        }
+      ],
+      "references": [
+        {
+          "last": "Diario",
+          "first": "Listin",
+          "date": "2020-08-16",
+          "title": "Eduardo Estrella y Alfredo Pacheco, los escogidos para ser presidentes del Congreso",
+          "url": "https://listindiario.com/la-republica/2020/08/16/630748/eduardo-estrella-y-alfredo-pacheco-los-escogidos-para-ser-presidentes-del-congreso",
+          "access-date": "2022-05-31",
+          "website": "listindiario.com",
+          "language": "ES",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "dominicanrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "title": "Carlos Bonilla Sánchez",
+  "pageID": 69458997,
+  "categories": [
+    "Living people",
+    "1979 births",
+    "People from Santo Domingo",
+    "Government ministers of the Dominican Republic",
+    "Dominican Republic businesspeople",
+    "Santo Domingo Institute of Technology alumni",
+    "Florida International University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Bonilla Sánchez (December 26, 1979 in Santo Domingo, Dominican Republic) is the current Minister of Housing, Habitat and Buildings of the Dominican Republic under the presidency of Luis Abinader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Santo Domingo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dominican Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dominican Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Abinader"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Bonilla Sánchez"
+                ]
+              }
+            },
+            {
+              "text": "Between 2020 until 2021 was director of the National Housing Institute (INVI)."
+            },
+            {
+              "text": "Bonilla Sánchez studied civil engineering and graduated from the Instituto Tecnológico de Santo Domingo.",
+              "links": [
+                {
+                  "text": "Instituto Tecnológico de Santo Domingo",
+                  "type": "internal",
+                  "page": "Santo Domingo Institute of Technology"
+                }
+              ]
+            },
+            {
+              "text": "He also got a master's degree in Construction Management from Florida International University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Florida International University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1979",
+          "month": "12",
+          "day": "26",
+          "template": "birth date and age"
+        },
+        {
+          "description": "Dominican businessman and politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Bonilla Sanchez"
+          },
+          "birth_date": {
+            "text": "December 26, 1979"
+          },
+          "birth_place": {
+            "text": "Santo Domingo, Dominican Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santo Domingo"
+              },
+              {
+                "type": "internal",
+                "page": "Dominican Republic"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Dominican businessman"
+          },
+          "alma_mater": {
+            "text": "Florida International University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florida International University"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Housing, Habitat and Buildings of the Dominican Republic"
+          },
+          "termstart": {
+            "text": "August 16, 2020"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Libre",
+          "first": "Diario",
+          "title": "Firman acuerdo para construir casas ecológicas a familias de escasos recursos",
+          "url": "https://www.diariolibre.com/actualidad/firman-acuerdo-para-construir-casas-ecologicas-a-familias-de-escasos-recursos-PB29828546",
+          "access-date": "2021-12-07",
+          "website": "www.diariolibre.com",
+          "language": "es-ES",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Carlos Bonilla Sánchez",
+          "url": "https://presidencia.gob.do/servidores-publicos/carlos-bonilla-sanchez",
+          "access-date": "2021-12-07",
+          "website": "Carlos Bonilla Sánchez {{!}} Presidencia de la República Dominicana",
+          "language": "es-DO",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "dominicanrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

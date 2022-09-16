@@ -1,5 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q607982,President of the Dominican Republic,Q786,Q786,,Q24057525,1844-11-14,,,,President of the Dominican Republic
-Q52229486,Vice President of the Dominican Republic,Q786,Q786,,Q6603526,,,,,
+Q52229486,Vice President of the Dominican Republic,Q786,Q786,,Q6603526,,,,,Vice president of the Dominican Republic
 Q28662562,Minister of Foreign Affairs,Q786,Q786,,Q18392021,,,,,
-Q23007339,President of the Chamber of Deputies of the Dominican Republic,Q786,,,,1844-11-06,,,,President of the Chamber of Deputies of the Dominican Republic
+Q23007339,President of the Chamber of Deputies of the Dominican Republic,Q786,,,Q16466665,1844-11-06,,,,President of the Chamber of Deputies of the Dominican Republic

@@ -1,12 +1,26 @@
 position,person,personID,start,end
 President,Leonel Fernández,Q151944,1996-08-16,2000-08-16
+President,Hipólito Mejía,Q653611,2000-08-16,2004-08-16
 President,Leonel Fernández,Q151944,2004-08-16,2012-08-16
 President,Danilo Medina,Q57429,2012-08-16,2020-08-16
 President,Luis Abinader,Q16594097,2020-08-16,
+Vice President,Jaime David Fernández Mirabal,Q9010575,1996-08-16,2000-08-16
+Vice President,Milagros Ortiz Bosch,Q6016272,2000-08-16,2004-08-16
+Vice President,Rafael Alburquerque,Q3084751,2004-08-16,2012-08-16
+Vice President,Margarita Cedeño,Q3845570,2012-08-16,2020-08-16
+Vice President,Raquel Peña de Antuña,Q87594839,2020-08-16,
 Minister of Foreign Affairs,Eduardo Latorre Rodríguez,Q108407634,1996,2000
+Minister of Foreign Affairs,Hugo Tolentino Dipp,Q16576566,2000,2003
 Minister of Foreign Affairs,Frank Guerrero Prats,Q108407635,2003,2004
+Minister of Foreign Affairs,Carlos Morales Troncoso,Q58295,2004,2014
+Minister of Foreign Affairs,Andrés Navarro García,Q18117835,2014,2016
 Minister of Foreign Affairs,Miguel Vargas,Q9032878,2016-08-16,2020-08-16
 Minister of Foreign Affairs,Roberto Álvarez Gil,Q98222557,2020-08-16,
+President of the Chamber of Deputies,Rafaela Alburquerque,Q28057750,1999,2003
+President of the Chamber of Deputies,Alfredo Pacheco,Q5690770,2003,2006
+President of the Chamber of Deputies,Abel Martínez Durán,Q5654916,2010,2016
+President of the Chamber of Deputies,Lucía Medina,Q20983426,2016,2017
+President of the Chamber of Deputies,Alfredo Pacheco,Q5690770,2020,
 ambassador to Mexico,Joaquín Balaguer,Q147989,1947-12-09,2002-07-14
 ambassador to Mexico,Ramón Brea Messina,Q109455187,1955-06-29,
 ambassador to Mexico,Rafael Calventi Gaviño,Q16624085,2000-10-03,2018-08-19

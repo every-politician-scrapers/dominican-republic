@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "XXX",
+        "id": "Qxxx"
+    },
+    "cabinet": {
+      "id":     "Q97461279",
+      "start":  "2020-08-16",
+      "parent": "Q3112605"
+    },
+    "reference": {
+        "P4656": "https://es.wikipedia.org/wiki/Gabinete_de_la_Rep%C3%BAblica_Dominicana"
+    },
+    "lang": "es",
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in the Dominican Republic"
+    }
+}

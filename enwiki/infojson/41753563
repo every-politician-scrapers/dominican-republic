@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Spokeswoman for the Presidency\nof the Dominican Republic"
+    },
+    "P580": "2020-08-16",
+    "P1365": {
+      "links": [
+        "Roberto Rodríguez de Marchena"
+      ],
+      "stated_as": "Roberto Rodríguez de Marchena"
+    },
+    "P582": "2021-09-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Homero Figueroa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Culture\nof the Dominican Republic"
+    },
+    "P580": "2021-09-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carmen Heredia de Guerrero"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+id,name,relationship,relative,relativename
+Q109455187,Ramón Brea Messina,spouse,Q108841588,Flor de Oro Trujillo
+Q16594097,Luis Abinader,father,Q17591796,José Rafael Abinader Wassaf
+Q16594097,Luis Abinader,sibling,Q95971390,José Rafael Abinader Corona
+Q16624085,Rafael Calventi Gaviño,relative,Q21598084,Idelisa Bonnelly
+Q16624085,Rafael Calventi Gaviño,relative,Q26464855,Jean Alain Rodríguez
+Q16624085,Rafael Calventi Gaviño,relative,Q439980,Juan Bosch
+Q16624085,Rafael Calventi Gaviño,relative,Q6016272,Milagros Ortiz Bosch
+Q17591796,José Rafael Abinader Wassaf,child,Q16594097,Luis Abinader
+Q17591796,José Rafael Abinader Wassaf,child,Q95971390,José Rafael Abinader Corona
+Q57429,Danilo Medina,sibling,Q20983426,Lucía Medina
+Q57429,Danilo Medina,spouse,Q24302385,Cándida Montilla de Medina

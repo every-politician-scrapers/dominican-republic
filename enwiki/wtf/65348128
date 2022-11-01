@@ -389,12 +389,16 @@
         {
           "sentences": [
             {
-              "text": "Peña was married to engineer Marco José Antuña Cabral, a white Dominican.",
+              "text": "Peña was married to engineer Marco José Antuña Cabral, a white Dominican, great-great-great-grandson of French-Dominican Colonel Furcy Fondeur.",
               "links": [
                 {
                   "text": "white Dominican",
                   "type": "internal",
                   "page": "White Dominicans"
+                },
+                {
+                  "type": "internal",
+                  "page": "Furcy Fondeur"
                 }
               ]
             },

@@ -245,12 +245,17 @@
               ]
             },
             {
-              "text": "His parents are from the Cibao region: his mother, Rosa Sula Corona Caba, a Dominican of Spanish Canarian colonial lineage, is from the province of La Vega; his father was the businessman and political leader José Rafael Abinader, of Lebanese descent and a native of the Santiago Province.",
+              "text": "His parents are from the Cibao region: his mother, Rosa Sula Corona Caba, a White Dominican of Spanish Canarian colonial ancestry, is from the province of La Vega; his father was the businessman and political leader José Rafael Abinader, of Lebanese descent and a native of the Santiago Province.",
               "links": [
                 {
                   "text": "Cibao region",
                   "type": "internal",
                   "page": "Cibao"
+                },
+                {
+                  "text": "White Dominican",
+                  "type": "internal",
+                  "page": "White Dominicans"
                 },
                 {
                   "text": "Spanish Canarian",

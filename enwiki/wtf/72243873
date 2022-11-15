@@ -1,0 +1,127 @@
+{
+  "title": "Roberto Álvarez Gil",
+  "pageID": 72243873,
+  "categories": [
+    "Living people",
+    "1944 births",
+    "People from Santo Domingo",
+    "Dominican Republic lawyers",
+    "Dominican Republic politicians",
+    "Government ministers of the Dominican Republic",
+    "Foreign ministers of the Dominican Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Roberto Álvarez Gil (born in Santo Domingo on June 7, 1944) is a Dominican lawyer, diplomat and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Santo Domingo"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Roberto Álvarez Gil"
+                ]
+              }
+            },
+            {
+              "text": "Since August 16, 2020, he is the Foreign Minister of the Dominican Republic, in the government of President Luis Abinader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominican Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Luis Abinader"
+                }
+              ]
+            },
+            {
+              "text": "He is also a researcher and author of publications on human rights and international relations."
+            },
+            {
+              "text": "In 2005, he was President of the Permanent Council of the Organization of American States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organization of American States"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dominican lawyer, diplomat and politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "es",
+          "otherarticle": "Roberto Álvarez Gil",
+          "date": "November 2022",
+          "template": "expand language"
+        }
+      ],
+      "references": [
+        {
+          "title": "As Cholera Outbreak Exacerbates Haiti’s Multiple Crises, Special Representative Says Security Council Must Act Decisively to Help Government Restore Order, Save Lives - Haiti {{!}} ReliefWeb",
+          "url": "https://reliefweb.int/report/haiti/cholera-outbreak-exacerbates-haitis-multiple-crises-special-representative-says-security-council-must-act-decisively-help-government-restore-order-save-lives",
+          "access-date": "2022-11-13",
+          "website": "reliefweb.int",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The question concerning Haiti - Security Council, 9153rd meeting {{!}} UN Web TV",
+          "url": "https://media.un.org/en/asset/k1z/k1z3rdvvfs",
+          "access-date": "2022-11-13",
+          "website": "media.un.org",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Haiti’s Crises at New Levels of Desperation, Top Officials Warn Security Council, Urging Critical Assistance for National Law Enforcement, Humanitarian Aid - Haiti {{!}} ReliefWeb",
+          "url": "https://reliefweb.int/report/haiti/haitis-crises-new-levels-desperation-top-officials-warn-security-council-urging-critical-assistance-national-law-enforcement-humanitarian-aid",
+          "access-date": "2022-11-13",
+          "website": "reliefweb.int",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "dominicanrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

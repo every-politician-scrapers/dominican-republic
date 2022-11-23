@@ -9,15 +9,11 @@
     "Dominican Republic economists",
     "Dominican Revolutionary Party politicians",
     "Dominican Liberation Party politicians",
-    "Dominican Republic people of Canarian descent",
-    "Dominican Republic people of Lebanese descent",
-    "Dominican Republic people of Spanish descent",
     "Dominican Republic Roman Catholics",
     "Hult International Business School alumni",
     "People from Santo Domingo",
     "People named in the Pandora Papers",
-    "Santo Domingo Institute of Technology alumni",
-    "White Dominicans"
+    "Santo Domingo Institute of Technology alumni"
   ],
   "sections": [
     {
@@ -245,22 +241,12 @@
               ]
             },
             {
-              "text": "His parents are from the Cibao region: his mother, Rosa Sula Corona Caba, a White Dominican of Spanish Canarian colonial ancestry, is from the province of La Vega; his father was the businessman and political leader José Rafael Abinader, of Lebanese descent and a native of the Santiago Province.",
+              "text": "His parents are from the Cibao region: his mother, Rosa Sula Corona Caba, is of colonial Canary Islander ancestry and from the province of La Vega; his father was the businessman and political leader José Rafael Abinader, of Lebanese descent and a native of the Santiago Province.",
               "links": [
                 {
                   "text": "Cibao region",
                   "type": "internal",
                   "page": "Cibao"
-                },
-                {
-                  "text": "White Dominican",
-                  "type": "internal",
-                  "page": "White Dominicans"
-                },
-                {
-                  "text": "Spanish Canarian",
-                  "type": "internal",
-                  "page": "Islenos"
                 },
                 {
                   "text": "La Vega",
@@ -270,11 +256,6 @@
                 {
                   "type": "internal",
                   "page": "José Rafael Abinader"
-                },
-                {
-                  "text": "Lebanese",
-                  "type": "internal",
-                  "page": "Lebanese people"
                 },
                 {
                   "text": "Santiago Province",
@@ -400,6 +381,10 @@
           "access-date": "14 August 2014",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "November 2022",
+          "template": "citation needed"
         }
       ]
     },
@@ -513,6 +498,12 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Tavito_subervi_y_hipolito_mejia_en_barahona.jpg",
           "caption": "Abinader (second from the right) with Hipólito Mejía, Tavito Suberví and Fello Suberví",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2022",
+          "template": "more sources needed section"
         }
       ]
     },
@@ -800,6 +791,10 @@
           "access-date": "17 August 2020",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "November 2022",
+          "template": "citation needed"
         }
       ]
     },

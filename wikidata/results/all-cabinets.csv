@@ -1,3 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q5406989,Presidency of Danilo Medina,2012-05-16,11,,,2020-08-16,11,,,,,Q97461279,Presidency of Luis Abinader,,,,
-,Q97461279,Presidency of Luis Abinader,2020-08-16,11,,,,,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,abolished,abolishedPrecision,replaces,replacesLabel,replacedBy,replacedByLabel
+,Q5406989,Presidency of Danilo Medina,2012-05-16,11,2020-08-16,11,,,Q97461279,Presidency of Luis Abinader
+,Q97461279,Presidency of Luis Abinader,2020-08-16,11,,,,,,

@@ -938,19 +938,6 @@
               "text": "They have three children: Esther Patricia, Graciela Lucía, and Adriana Margarita."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2020, Abinader and his wife announced that they had tested positive for COVID-19.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19"
-                }
-              ]
-            }
-          ]
         }
       ],
       "images": [
@@ -963,15 +950,6 @@
         }
       ],
       "references": [
-        {
-          "url": "https://www.notimerica.com/politica/noticia-coronavirus-principal-candidato-opositor-elecciones-presidenciales-republica-dominicana-tiene-coronavirus-20200611143009.html",
-          "title": "El principal candidato opositor a las elecciones presidenciales de República Dominicana tiene coronavirus",
-          "date": "11 June 2020",
-          "website": "Notimérica",
-          "language": "es",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "http://genealogy.com/users/n/u/n/Milciades-H-Nunez/FILE/0001page.html",
           "title": "Descendientes de Raymundo Núñez",

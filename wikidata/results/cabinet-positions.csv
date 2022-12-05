@@ -1,4 +1,5 @@
 item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q607982,Q607982,,,Q786,Q786,1844,,68
 Q113992686,Administrative Minister of the Presidency of the Dominican Republic,,,Q786,Q786,,,1
 Q113992411,Attorney General of the Dominican Republic,Q30909878,Ministry of Justice of the Dominican Republic,,Q786,,,1
 Q113992461,Minister for Women of the Dominican Republic,,,Q786,Q786,,,1
@@ -23,5 +24,4 @@ Q113992466,Minister of Sport of the Dominican Republic,,,Q786,Q786,,,1
 Q113992410,Minister of Tourism of the Dominican Republic,Q30917252,Ministry of Tourism of the Dominican Republic,,Q786,,,1
 Q113992471,Minister of Youth of the Dominican Republic,,,Q786,Q786,,,1
 Q113992448,Minister of the Presidency of the Dominican Republic,,,Q786,Q786,,,3
-Q607982,President of the Dominican Republic,,,Q786,Q786,1844,,68
 Q52229486,Vice President of the Dominican Republic,,,Q786,Q786,,,13

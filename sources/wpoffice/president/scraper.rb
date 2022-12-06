@@ -10,12 +10,16 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Gobierno'
+    'Mandato'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no img _ name start end].freeze
+      %w[no _ img name _ start end].freeze
+    end
+
+    def multi_line_dates?
+      true
     end
   end
 end

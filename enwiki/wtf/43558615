@@ -13,7 +13,8 @@
     "Hult International Business School alumni",
     "People from Santo Domingo",
     "People named in the Pandora Papers",
-    "Santo Domingo Institute of Technology alumni"
+    "Santo Domingo Institute of Technology alumni",
+    "21st-century Dominican Republic politicians"
   ],
   "sections": [
     {
@@ -649,25 +650,6 @@
                 {
                   "type": "internal",
                   "page": "Rudy Giuliani"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Abinader is the first Dominican President to have been born after the Trujillo dictatorship; and the second of Lebanese descent, the first being Jacobo Majluta who briefly held office in 1982.",
-              "links": [
-                {
-                  "text": "Trujillo dictatorship",
-                  "type": "internal",
-                  "page": "Rafael Trujillo"
-                },
-                {
-                  "text": "Jacobo Majluta",
-                  "type": "internal",
-                  "page": "Jacobo Majluta Azar"
                 }
               ]
             }
